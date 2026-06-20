@@ -1,0 +1,94 @@
+{
+  "updated": "2026-06-19 22:47",
+  "source": "天天基金/易方达官网（公开数据）",
+  "funds": [
+    {
+      "code": "001513",
+      "name": "易方达信息产业混合",
+      "role": "在任",
+      "start": "2016-09-27",
+      "end": "--",
+      "type": "混合型",
+      "fund_name_em": "易方达信息产业混合A",
+      "quarters": 38,
+      "dir": "references/fund_data/001513_易方达信息产业混合"
+    },
+    {
+      "code": "010013",
+      "name": "易方达信息行业精选股票",
+      "role": "在任",
+      "start": "2020-08-24",
+      "end": "--",
+      "type": "股票型",
+      "fund_name_em": "易方达信息行业精选股票A",
+      "quarters": 22,
+      "dir": "references/fund_data/010013_易方达信息行业精选股票"
+    },
+    {
+      "code": "012920",
+      "name": "易方达全球成长精选混合（QDII）",
+      "role": "在任",
+      "start": "2022-01-11",
+      "end": "--",
+      "type": "QDII",
+      "fund_name_em": "易方达全球成长精选混合(QDII)人民币A",
+      "quarters": 17,
+      "dir": "references/fund_data/012920_易方达全球成长精选混合（QDII）"
+    },
+    {
+      "code": "506002",
+      "name": "易方达科创板两年定开混合",
+      "role": "在任",
+      "start": "2020-07-28",
+      "end": "--",
+      "type": "混合型",
+      "fund_name_em": "易方达科创板两年定开混合",
+      "quarters": 23,
+      "dir": "references/fund_data/506002_易方达科创板两年定开混合"
+    },
+    {
+      "code": "003293",
+      "name": "易方达科瑞混合",
+      "role": "曾任",
+      "start": "2017-01-03",
+      "end": "2017-12-27",
+      "type": "混合型",
+      "fund_name_em": "易方达科瑞混合",
+      "quarters": 37,
+      "dir": "references/fund_data/003293_易方达科瑞混合"
+    },
+    {
+      "code": "014275",
+      "name": "易方达北交所精选两年定开混合",
+      "role": "曾任",
+      "start": "2021-11-23",
+      "end": "2025-12-13",
+      "type": "混合型",
+      "fund_name_em": "易方达北交所精选两年定开混合A",
+      "quarters": 17,
+      "dir": "references/fund_data/014275_易方达北交所精选两年定开混合"
+    },
+    {
+      "code": "110009",
+      "name": "易方达价值精选混合",
+      "role": "曾任",
+      "start": "2014-01-02",
+      "end": "2018-12-11",
+      "type": "混合型",
+      "fund_name_em": "易方达价值精选混合",
+      "quarters": 49,
+      "dir": "references/fund_data/110009_易方达价值精选混合"
+    },
+    {
+      "code": "500056",
+      "name": "基金科瑞",
+      "role": "曾任",
+      "start": "2012-09-28",
+      "end": "2017-01-03",
+      "type": "封闭式",
+      "fund_name_em": "基金科瑞",
+      "quarters": 21,
+      "dir": "references/fund_data/500056_基金科瑞"
+    }
+  ]
+}

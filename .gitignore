@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# 运行时按需抓取的全市场基金缓存（非源码，体积大、易过期，不入库）
+references/fund_data_cache/
+
+# 打包产物
+*.skill
+
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

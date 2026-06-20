@@ -1,0 +1,700 @@
+{
+  "manager": "郑希",
+  "manager_id": "462",
+  "home": "https://www.efunds.com.cn/manager/462.shtml",
+  "counts": {
+    "定期报告": 57,
+    "基金经理手记": 15,
+    "媒体报道": 4
+  },
+  "date_range": {
+    "min": "2012-11-07",
+    "max": "2026-06-08"
+  },
+  "documents": [
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：投资与耐心",
+      "date": "2012-11-07",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/160/160187.shtml",
+      "body_chars": 725,
+      "path": "references/corpus/基金经理手记/15_2012-11-07_易方达郑希：投资与耐心.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：投资与优秀企业",
+      "date": "2013-02-05",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/160/160623.shtml",
+      "body_chars": 634,
+      "path": "references/corpus/基金经理手记/14_2013-02-05_易方达郑希：投资与优秀企业.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：A股投资与新兴产业",
+      "date": "2013-05-14",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/161/161210.shtml",
+      "body_chars": 792,
+      "path": "references/corpus/基金经理手记/13_2013-05-14_易方达郑希：A股投资与新兴产业.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：投资选择与经济转型",
+      "date": "2013-07-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/161/161573.shtml",
+      "body_chars": 807,
+      "path": "references/corpus/基金经理手记/12_2013-07-30_易方达郑希：投资选择与经济转型.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：分享增长的收益",
+      "date": "2013-10-22",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/161/161929.shtml",
+      "body_chars": 831,
+      "path": "references/corpus/基金经理手记/11_2013-10-22_易方达郑希：分享增长的收益.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：经济转型与资本市场",
+      "date": "2013-12-31",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/162/162325.shtml",
+      "body_chars": 592,
+      "path": "references/corpus/基金经理手记/10_2013-12-31_易方达郑希：经济转型与资本市场.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：投资手记",
+      "date": "2014-05-06",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/162/162931.shtml",
+      "body_chars": 660,
+      "path": "references/corpus/基金经理手记/09_2014-05-06_易方达郑希：投资手记.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：投资感悟",
+      "date": "2014-08-04",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/163/163417.shtml",
+      "body_chars": 706,
+      "path": "references/corpus/基金经理手记/08_2014-08-04_易方达郑希：投资感悟.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：投资随笔",
+      "date": "2015-09-10",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/166/166642.shtml",
+      "body_chars": 639,
+      "path": "references/corpus/基金经理手记/07_2015-09-10_易方达郑希：投资随笔.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达郑希：中国经济基本面随想",
+      "date": "2017-10-16",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/173/173381.shtml",
+      "body_chars": 736,
+      "path": "references/corpus/基金经理手记/06_2017-10-16_易方达郑希：中国经济基本面随想.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达基金郑希：全球科技产业进化与投资",
+      "date": "2020-12-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/190/190373.shtml",
+      "body_chars": 829,
+      "path": "references/corpus/基金经理手记/05_2020-12-28_易方达基金郑希：全球科技产业进化与投资.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达基金郑希：2023年7月市场展望",
+      "date": "2023-07-07",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/692/692590.shtml",
+      "body_chars": 475,
+      "path": "references/corpus/基金经理手记/04_2023-07-07_易方达基金郑希：2023年7月市场展望.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达基金郑希：2024年1月市场展望",
+      "date": "2024-01-08",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/709/709458.shtml",
+      "body_chars": 743,
+      "path": "references/corpus/基金经理手记/03_2024-01-08_易方达基金郑希：2024年1月市场展望.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达基金郑希：2024年10月市场展望",
+      "date": "2024-10-10",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/740/740877.shtml",
+      "body_chars": 569,
+      "path": "references/corpus/基金经理手记/02_2024-10-10_易方达基金郑希：2024年10月市场展望.md"
+    },
+    {
+      "type": "基金经理手记",
+      "title": "易方达基金郑希：2025年6月市场展望",
+      "date": "2025-06-13",
+      "source": "",
+      "link": "https://www.efunds.com.cn/c/768/768156.shtml",
+      "body_chars": 823,
+      "path": "references/corpus/基金经理手记/01_2025-06-13_易方达基金郑希：2025年6月市场展望.md"
+    },
+    {
+      "type": "媒体报道",
+      "title": "易方达基金郑希：建议投资者把握业绩持续向上的企业",
+      "date": "2020-10-20",
+      "source": "中国证券报·中证网",
+      "link": "https://www.efunds.com.cn/c/631/631830.shtml",
+      "body_chars": 205,
+      "path": "references/corpus/媒体报道/04_2020-10-20_易方达基金郑希：建议投资者把握业绩持续向上的企业.md"
+    },
+    {
+      "type": "媒体报道",
+      "title": "投资大咖说 | 易方达基金郑希专访",
+      "date": "2025-05-19",
+      "source": "上海证券报",
+      "link": "https://www.efunds.com.cn/c/803/803605.shtml",
+      "body_chars": 2760,
+      "path": "references/corpus/媒体报道/03_2025-05-19_投资大咖说 _ 易方达基金郑希专访.md"
+    },
+    {
+      "type": "媒体报道",
+      "title": "易方达基金郑希：寻找高景气机会 关注高流动性低ROE资产",
+      "date": "2026-06-08",
+      "source": "中国证券报",
+      "link": "https://www.efunds.com.cn/c/803/803602.shtml",
+      "body_chars": 4026,
+      "path": "references/corpus/媒体报道/01_2026-06-08_易方达基金郑希：寻找高景气机会 关注高流动性低ROE资产.md"
+    },
+    {
+      "type": "媒体报道",
+      "title": "画像基金经理 | “复利是拼出来的！” 易方达基金郑希：焦虑过程、平静结果的“周期拼接者”",
+      "date": "2026-06-08",
+      "source": "中国证券报",
+      "link": "https://www.efunds.com.cn/c/803/803626.shtml",
+      "body_chars": 310,
+      "path": "references/corpus/媒体报道/02_2026-06-08_画像基金经理 _ “复利是拼出来的！” 易方达基金郑希：焦虑过程、平静结果的“周期拼接者”.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2016年第4季度报告",
+      "date": "2017-01-20",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2016/4/462_max.shtml",
+      "body_chars": 527,
+      "path": "references/corpus/定期报告/57_2017-01-20_2016年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2016年年度报告",
+      "date": "2017-03-31",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2016/5/462_max.shtml",
+      "body_chars": 817,
+      "path": "references/corpus/定期报告/56_2017-03-31_2016年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2017年第1季度报告",
+      "date": "2017-04-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2017/0/462_max.shtml",
+      "body_chars": 582,
+      "path": "references/corpus/定期报告/55_2017-04-21_2017年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2017年第2季度报告",
+      "date": "2017-07-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2017/1/462_max.shtml",
+      "body_chars": 607,
+      "path": "references/corpus/定期报告/54_2017-07-21_2017年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2017年中期报告",
+      "date": "2017-08-29",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2017/2/462_max.shtml",
+      "body_chars": 818,
+      "path": "references/corpus/定期报告/53_2017-08-29_2017年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2017年第3季度报告",
+      "date": "2017-10-26",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2017/3/462_max.shtml",
+      "body_chars": 569,
+      "path": "references/corpus/定期报告/52_2017-10-26_2017年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2017年第4季度报告",
+      "date": "2018-01-19",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2017/4/462_max.shtml",
+      "body_chars": 529,
+      "path": "references/corpus/定期报告/51_2018-01-19_2017年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2017年年度报告",
+      "date": "2018-03-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2017/5/462_max.shtml",
+      "body_chars": 1082,
+      "path": "references/corpus/定期报告/50_2018-03-30_2017年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2018年第1季度报告",
+      "date": "2018-04-23",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2018/0/462_max.shtml",
+      "body_chars": 494,
+      "path": "references/corpus/定期报告/49_2018-04-23_2018年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2018年第2季度报告",
+      "date": "2018-07-19",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2018/1/462_max.shtml",
+      "body_chars": 673,
+      "path": "references/corpus/定期报告/48_2018-07-19_2018年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2018年中期报告",
+      "date": "2018-08-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2018/2/462_max.shtml",
+      "body_chars": 1035,
+      "path": "references/corpus/定期报告/47_2018-08-28_2018年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2018年第3季度报告",
+      "date": "2018-10-24",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2018/3/462_max.shtml",
+      "body_chars": 718,
+      "path": "references/corpus/定期报告/46_2018-10-24_2018年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2018年第4季度报告",
+      "date": "2019-01-22",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2018/4/462_max.shtml",
+      "body_chars": 657,
+      "path": "references/corpus/定期报告/45_2019-01-22_2018年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2018年年度报告",
+      "date": "2019-03-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2018/5/462_max.shtml",
+      "body_chars": 1098,
+      "path": "references/corpus/定期报告/44_2019-03-28_2018年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2019年第1季度报告",
+      "date": "2019-04-18",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2019/0/462_max.shtml",
+      "body_chars": 804,
+      "path": "references/corpus/定期报告/43_2019-04-18_2019年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2019年第2季度报告",
+      "date": "2019-07-19",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2019/1/462_max.shtml",
+      "body_chars": 684,
+      "path": "references/corpus/定期报告/42_2019-07-19_2019年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2019年中期报告",
+      "date": "2019-08-24",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2019/2/462_max.shtml",
+      "body_chars": 1183,
+      "path": "references/corpus/定期报告/41_2019-08-24_2019年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2019年第3季度报告",
+      "date": "2019-10-24",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2019/3/462_max.shtml",
+      "body_chars": 688,
+      "path": "references/corpus/定期报告/40_2019-10-24_2019年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2019年第4季度报告",
+      "date": "2020-01-18",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2019/4/462_max.shtml",
+      "body_chars": 587,
+      "path": "references/corpus/定期报告/39_2020-01-18_2019年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2019年年度报告",
+      "date": "2020-03-31",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2019/5/462_max.shtml",
+      "body_chars": 1127,
+      "path": "references/corpus/定期报告/38_2020-03-31_2019年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2020年第1季度报告",
+      "date": "2020-04-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2020/0/462_max.shtml",
+      "body_chars": 661,
+      "path": "references/corpus/定期报告/37_2020-04-21_2020年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2020年第2季度报告",
+      "date": "2020-07-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2020/1/462_max.shtml",
+      "body_chars": 673,
+      "path": "references/corpus/定期报告/36_2020-07-21_2020年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2020年中期报告",
+      "date": "2020-08-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2020/2/462_max.shtml",
+      "body_chars": 992,
+      "path": "references/corpus/定期报告/35_2020-08-28_2020年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2020年第3季度报告",
+      "date": "2020-10-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2020/3/462_max.shtml",
+      "body_chars": 639,
+      "path": "references/corpus/定期报告/34_2020-10-28_2020年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2020年第4季度报告",
+      "date": "2021-01-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2020/4/462_max.shtml",
+      "body_chars": 639,
+      "path": "references/corpus/定期报告/33_2021-01-21_2020年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2020年年度报告",
+      "date": "2021-03-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2020/5/462_max.shtml",
+      "body_chars": 1216,
+      "path": "references/corpus/定期报告/32_2021-03-30_2020年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2021年第1季度报告",
+      "date": "2021-04-19",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2021/0/462_max.shtml",
+      "body_chars": 672,
+      "path": "references/corpus/定期报告/31_2021-04-19_2021年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2021年第2季度报告",
+      "date": "2021-07-20",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2021/1/462_max.shtml",
+      "body_chars": 809,
+      "path": "references/corpus/定期报告/30_2021-07-20_2021年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2021年中期报告",
+      "date": "2021-08-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2021/2/462_max.shtml",
+      "body_chars": 940,
+      "path": "references/corpus/定期报告/29_2021-08-28_2021年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2021年第3季度报告",
+      "date": "2021-10-27",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2021/3/462_max.shtml",
+      "body_chars": 744,
+      "path": "references/corpus/定期报告/28_2021-10-27_2021年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2021年第4季度报告",
+      "date": "2022-01-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2021/4/462_max.shtml",
+      "body_chars": 890,
+      "path": "references/corpus/定期报告/27_2022-01-21_2021年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2021年年度报告",
+      "date": "2022-03-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2021/5/462_max.shtml",
+      "body_chars": 1260,
+      "path": "references/corpus/定期报告/26_2022-03-30_2021年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2022年第1季度报告",
+      "date": "2022-04-22",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2022/0/462_max.shtml",
+      "body_chars": 640,
+      "path": "references/corpus/定期报告/25_2022-04-22_2022年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2022年第2季度报告",
+      "date": "2022-07-20",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2022/1/462_max.shtml",
+      "body_chars": 729,
+      "path": "references/corpus/定期报告/24_2022-07-20_2022年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2022年中期报告",
+      "date": "2022-08-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2022/2/462_max.shtml",
+      "body_chars": 908,
+      "path": "references/corpus/定期报告/23_2022-08-30_2022年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2022年第3季度报告",
+      "date": "2022-10-26",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2022/3/462_max.shtml",
+      "body_chars": 680,
+      "path": "references/corpus/定期报告/22_2022-10-26_2022年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2022年第4季度报告",
+      "date": "2023-01-20",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2022/4/462_max.shtml",
+      "body_chars": 872,
+      "path": "references/corpus/定期报告/21_2023-01-20_2022年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2022年年度报告",
+      "date": "2023-03-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2022/5/462_max.shtml",
+      "body_chars": 913,
+      "path": "references/corpus/定期报告/20_2023-03-30_2022年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2023年第1季度报告",
+      "date": "2023-04-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2023/0/462_max.shtml",
+      "body_chars": 812,
+      "path": "references/corpus/定期报告/19_2023-04-21_2023年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2023年第2季度报告",
+      "date": "2023-07-20",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2023/1/462_max.shtml",
+      "body_chars": 815,
+      "path": "references/corpus/定期报告/18_2023-07-20_2023年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2023年中期报告",
+      "date": "2023-08-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2023/2/462_max.shtml",
+      "body_chars": 747,
+      "path": "references/corpus/定期报告/17_2023-08-30_2023年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2023年第3季度报告",
+      "date": "2023-10-25",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2023/3/462_max.shtml",
+      "body_chars": 942,
+      "path": "references/corpus/定期报告/16_2023-10-25_2023年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2023年第4季度报告",
+      "date": "2024-01-19",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2023/4/462_max.shtml",
+      "body_chars": 978,
+      "path": "references/corpus/定期报告/15_2024-01-19_2023年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2023年年度报告",
+      "date": "2024-03-29",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2023/5/462_max.shtml",
+      "body_chars": 1147,
+      "path": "references/corpus/定期报告/14_2024-03-29_2023年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2024年第1季度报告",
+      "date": "2024-04-20",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2024/0/462_max.shtml",
+      "body_chars": 948,
+      "path": "references/corpus/定期报告/13_2024-04-20_2024年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2024年第2季度报告",
+      "date": "2024-07-18",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2024/1/462_max.shtml",
+      "body_chars": 963,
+      "path": "references/corpus/定期报告/12_2024-07-18_2024年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2024年中期报告",
+      "date": "2024-08-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2024/2/462_max.shtml",
+      "body_chars": 1104,
+      "path": "references/corpus/定期报告/11_2024-08-30_2024年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2024年第3季度报告",
+      "date": "2024-10-25",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2024/3/462_max.shtml",
+      "body_chars": 818,
+      "path": "references/corpus/定期报告/10_2024-10-25_2024年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2024年第4季度报告",
+      "date": "2025-01-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2024/4/462_max.shtml",
+      "body_chars": 810,
+      "path": "references/corpus/定期报告/09_2025-01-21_2024年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2024年年度报告",
+      "date": "2025-03-31",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2024/5/462_max.shtml",
+      "body_chars": 1298,
+      "path": "references/corpus/定期报告/08_2025-03-31_2024年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2025年第1季度报告",
+      "date": "2025-04-22",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2025/0/462_max.shtml",
+      "body_chars": 1510,
+      "path": "references/corpus/定期报告/07_2025-04-22_2025年第1季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2025年第2季度报告",
+      "date": "2025-07-21",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2025/1/462_max.shtml",
+      "body_chars": 1279,
+      "path": "references/corpus/定期报告/06_2025-07-21_2025年第2季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2025年中期报告",
+      "date": "2025-08-30",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2025/2/462_max.shtml",
+      "body_chars": 1606,
+      "path": "references/corpus/定期报告/05_2025-08-30_2025年中期报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2025年第3季度报告",
+      "date": "2025-10-28",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2025/3/462_max.shtml",
+      "body_chars": 1498,
+      "path": "references/corpus/定期报告/04_2025-10-28_2025年第3季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2025年第4季度报告",
+      "date": "2026-01-22",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2025/4/462_max.shtml",
+      "body_chars": 1511,
+      "path": "references/corpus/定期报告/03_2026-01-22_2025年第4季度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2025年年度报告",
+      "date": "2026-03-31",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2025/5/462_max.shtml",
+      "body_chars": 1568,
+      "path": "references/corpus/定期报告/02_2026-03-31_2025年年度报告.md"
+    },
+    {
+      "type": "定期报告",
+      "title": "2026年第1季度报告",
+      "date": "2026-04-22",
+      "source": "",
+      "link": "https://www.efunds.com.cn/manager/report/2026/0/462_max.shtml",
+      "body_chars": 1333,
+      "path": "references/corpus/定期报告/01_2026-04-22_2026年第1季度报告.md"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# 统一以 LF 存储文本文件，避免跨平台换行符差异
+* text=auto eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf

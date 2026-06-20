@@ -1,0 +1,5 @@
+# 运行 scripts/ 所需的第三方库（检索类脚本不依赖网络，抓取类需要 requests）
+# 安装：pip install -r requirements.txt
+requests>=2.28
+beautifulsoup4>=4.11
+lxml>=4.9
