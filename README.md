@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🔎 郑希观点库 Skill
+# 🔎 基金经理 · 郑希观点库 Skill
 
 ### 可溯源 · 原文为据 · 接入全市场基金 · 跨 AI 平台
 
-*「让任意 AI 读懂易方达郑希——他说过什么、怎么投、实际买了什么」*
+*「查观点 · 学方法 · 做前瞻 · 仿口吻写点评 · 言行对照 · 全市场基金对比与评分 —— 让任意 AI 读懂易方达郑希」*
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![类型](https://img.shields.io/badge/类型-Agent%20Skill-black)
