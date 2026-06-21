@@ -10,7 +10,7 @@
 ![类型](https://img.shields.io/badge/类型-Agent%20Skill-black)
 ![数据](https://img.shields.io/badge/数据-真实公开披露-success)
 ![基金](https://img.shields.io/badge/覆盖-全市场%202.7万只-orange)
-![平台](https://img.shields.io/badge/平台-Claude%20·%20ChatGPT%20·%20Gemini%20·%20Cursor-7c3aed)
+![平台](https://img.shields.io/badge/平台-Claude%20·%20WorkBuddy%20·%20ChatGPT%20·%20Gemini%20·%20Cursor-7c3aed)
 
 [安装](#install) · [它能做什么](#features) · [在其他 AI 里用](#other-ai) · [目录结构](#structure) · [数据来源](#sources) · [边界](#limits)
 
@@ -127,7 +127,8 @@
 **是。** 它符合 Agent Skill 规范：根目录有 `SKILL.md`（YAML frontmatter 含 `name` + `description`）+ 渐进式加载的 `references/`、`scripts/` 资源，能通过官方工具校验并打成 `.skill` 包。
 
 - **Claude Code / Claude.ai** 原生支持 Agent Skill，放进技能目录即自动加载。
-- 在 **ChatGPT / Gemini / Cursor** 等没有"技能自动加载器"的工具里，用"自定义指令 + 知识文件"的方式复刻，见 [在其他 AI 工具里使用](#在其他-ai-工具里使用)。
+- **腾讯 WorkBuddy** 用 `skill.yml` 清单组织 Skill，本仓库已附一份，放进它的 `skills/` 目录即可（已实测可用）。
+- 在 **ChatGPT / Gemini / Cursor** 等没有"技能自动加载器"的工具里，用"自定义指令 + 知识文件"的方式复刻，见 [在其他 AI 工具里使用](#other-ai)。
 
 <a id="structure"></a>
 ## 🗂️ 目录结构
@@ -135,6 +136,8 @@
 ```text
 zhengxi-views/
 ├── SKILL.md
+├── skill.yml                       # 腾讯 WorkBuddy 清单（Claude 用法可忽略）
+├── WORKBUDDY部署.md
 ├── README.md
 ├── references/
 │   ├── method.md
@@ -212,17 +215,29 @@ skill 会运行 python 脚本。Claude Code 默认每次运行都要确认。想
 
 本项目是 Agent Skill，**Claude 系原生支持**；其他工具靠"指令 + 知识文件"复刻。能用的功能取决于该工具**能否运行 Python 并联网**：
 
-| 功能 | 所需能力 | Claude Code | Cursor | Claude.ai | ChatGPT | Gemini |
-|---|---|:---:|:---:|:---:|:---:|:---:|
-| 溯源问答 / 方法讲解 / 风格点评 | 读文件 | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 郑希 8 只基金言行对照（自带快照） | 读文件 | ✅ | ✅ | ✅ | ✅ | ✅ |
-| 全市场任意基金实时抓取 / 评分 | Python + 联网 | ✅ | ✅ | ⚠️ | ⚠️ | ❌ |
+| 功能 | 所需能力 | Claude Code | WorkBuddy | Cursor | Claude.ai | ChatGPT | Gemini |
+|---|---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 溯源问答 / 方法讲解 / 风格点评 | 读文件 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 郑希 8 只基金言行对照（自带快照） | 读文件 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 全市场任意基金实时抓取 / 评分 | Python + 联网 | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | ❌ |
+
+> 腾讯 **WorkBuddy** 本地运行、能跑脚本联网，因此可用**全部功能**（含实时抓取）；它用 `skill.yml` 作清单，本仓库已附一份，详见 [腾讯 WorkBuddy](#腾讯-workbuddy)。
 
 > ⚠️ = 沙箱通常**无外网**，实时抓取多半失败；但可以在本地先用 `fetch_any_fund.py` 把目标基金抓好，再把生成的数据文件一起上传，离线评分照常进行。
 
 **通用思路（任何支持自定义指令 + 文件上传的 AI）**：
 - **指令**：把 `SKILL.md` 正文粘进"系统提示 / 自定义指令"。其中"运行脚本的方式"那段是 Claude Code 专属，可删或改为"用代码解释器运行上传的脚本"；务必保留行为约束（溯源、不杜撰、推演与原话分开、语料外首句加粗声明非原话）。
 - **知识**：上传 `references/` 全部内容（`method.md`、`scorecard.md`、`corpus/`、`fund_data/`、`all_funds/fund_list.json`）；要跑脚本的再上传 `scripts/`。
+
+### 腾讯 WorkBuddy
+
+WorkBuddy 是本地运行的 AI 工作台，自定义 Skill 约定为 **`skill.yml` 清单 + 实现文件（scripts）+ README**。本仓库已附 `skill.yml`，可直接用：
+
+1. 把整个文件夹放进 WorkBuddy 的 **`skills/` 技能目录**，按 `skill.yml` 导入启用（**已实测可用**）。
+2. 先 `pip install -r requirements.txt` 装好脚本依赖；因本地运行，**实时抓取/评分等全部功能均可用**。
+3. 触发词示例："郑希怎么看光通信""用郑希的标准给招商中证白酒打个分"。
+
+> `skill.yml` 字段按通用约定编写；若 WorkBuddy 提示字段不符，对照其 schema 微调即可（行为逻辑都在 `SKILL.md`）。完整步骤与备选方案见 [`WORKBUDDY部署.md`](WORKBUDDY部署.md)。
 
 ### Cursor（IDE，功能最全，接近 Claude Code）
 

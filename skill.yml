@@ -1,0 +1,53 @@
+# Tencent WorkBuddy skill manifest
+# 说明：WorkBuddy 自定义 Skill 的清单文件。官方未完整公开 skill.yml 的字段规范，
+# 以下为按"metadata + description + 实现文件 + README"的通用约定写的尽力版本，
+# 导入后若 WorkBuddy 报字段不匹配，对照它的实际 schema 微调键名即可（行为说明都在 SKILL.md）。
+
+name: zhengxi-views
+display_name: 基金经理·郑希观点库
+version: 1.0.0
+author: lyra81604
+license: MIT
+language: zh-CN
+
+description: >-
+  可溯源的郑希（易方达）投研 Skill：基于他 2012–2026 全部公开观点原文语料 +
+  有原话佐证的投资方法 + 8 只基金真实数据 + 全市场约 2.7 万只基金按需抓取与评分。
+  能做：溯源问答、讲方法、前瞻推演、风格化点评、言行对照、全市场基金查询/对比、按郑希框架给基金打分。
+  一切结论回到原文、不杜撰；推演与原话分开；语料外话题首句加粗声明非本人观点。研究学习辅助，非投资建议。
+
+# 行为指令：WorkBuddy 加载本 skill 时，以 SKILL.md 正文作为系统指令/行为约束。
+instructions_file: SKILL.md
+
+# 文档
+readme: README.md
+
+# 知识/资源目录（语料、方法、评分卡、基金数据、全市场列表）
+resources:
+  - references/
+
+# 可执行实现文件（本地运行；抓取/评分需 python3 + requirements.txt 中的依赖）
+scripts:
+  - scripts/search_corpus.py      # 语料检索，返回带出处的命中段落
+  - scripts/fund_lookup.py        # 全市场基金查找（名称/代码/类型）
+  - scripts/fetch_any_fund.py     # 按需抓取任意基金的持仓/净值/业绩
+  - scripts/score_fund.py         # 郑希框架评分一键入口
+  - scripts/fetch_fund_data.py    # 抓取/刷新郑希 8 只基金
+  - scripts/build_index.py        # 重建语料索引
+  - scripts/build_fund_list.py    # 刷新全市场基金列表
+
+requirements: requirements.txt
+
+# 触发关键词（供 Skill 市场/路由参考）
+keywords:
+  - 郑希
+  - 易方达郑希
+  - zhengxi
+  - 基金经理观点
+  - 投资方法
+  - 持仓
+  - 业绩
+  - 基金对比
+  - 基金评分
+
+disclaimer: 研究与学习辅助，非投资建议；语料与数据均为公开披露内容。
