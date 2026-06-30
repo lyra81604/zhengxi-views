@@ -56,17 +56,19 @@
 
 下面是 WorkBuddy 自动化配置和邮件报告效果示例：
 
-![WorkBuddy 自动化任务配置](assets/recommended-usage/01-workbuddy-automation-config.jpg)
+<div align="center">
+  <img src="assets/recommended-usage/01-workbuddy-automation-config.jpg" width="32%" alt="WorkBuddy 自动化任务配置">
+  <img src="assets/recommended-usage/02-daily-tech-market-report.jpg" width="32%" alt="每日全球科技行情分析报告">
+  <img src="assets/recommended-usage/03-hot-reports.jpg" width="32%" alt="热点报告聚合与摘要">
+</div>
 
-![每日全球科技行情分析报告](assets/recommended-usage/02-daily-tech-market-report.jpg)
+<br>
 
-![热点报告聚合与摘要](assets/recommended-usage/03-hot-reports.jpg)
-
-![黄金与关键事件分析](assets/recommended-usage/04-gold-section.jpg)
-
-![郑希视角分析](assets/recommended-usage/05-zhengxi-view-analysis.jpg)
-
-![按郑希方法框架推演](assets/recommended-usage/06-method-deduction.jpg)
+<div align="center">
+  <img src="assets/recommended-usage/04-gold-section.jpg" width="32%" alt="黄金与关键事件分析">
+  <img src="assets/recommended-usage/05-zhengxi-view-analysis.jpg" width="32%" alt="郑希视角分析">
+  <img src="assets/recommended-usage/06-method-deduction.jpg" width="32%" alt="按郑希方法框架推演">
+</div>
 
 ## 💬 示例 · 看看它怎么答
 
