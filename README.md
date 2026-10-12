@@ -17,7 +17,7 @@
 </div>
 
 ---
-[![AtomGit G-Star](https://github.com/lyra81604/zhengxi-views/star/new_badge.svg)](https://github.com/lyra81604/zhengxi-views)
+
 很多关于"某基金经理怎么看 X"的回答，听起来头头是道，其实是模型凭印象编的——查无此言。这个 skill 解决的就是这个问题：它的根基是**郑希（易方达权益投资管理部副总经理、基金经理）本人留下的原始文本**，任何结论都能追溯到"哪一年、哪一篇、原话是什么"。
 
 它有**三块根基**，都来自公开内容、可溯源：
